@@ -19,7 +19,7 @@ Project is created using following technologies
 * validate.js version: 0.13.1
 * node.js version: 16.13.1
 
-##Setup
+## Setup
 To run this project, install it locally using npm:
 
 ```
@@ -28,7 +28,7 @@ $ npm install express pug sequelize sqlite3 validate.js pug
 $ node app
 ```
 
-##Link to github repo
+## Link to github repo
 (https://github.com/User/repository)
 
 ##Link to the Website URL
