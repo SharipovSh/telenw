@@ -10,7 +10,7 @@
 This project is a simple Teaching and Learning module application that provides a different number of modules. 
 There you can do CRUD application which means that you can create, read, update, delete modules you create.
 
-##Technologies
+## Technologies
 Project is created using following technologies
 * express version: 4.81.1
 * pug version: 3.0.2
