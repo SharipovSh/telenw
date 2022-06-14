@@ -3,8 +3,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Link to github repo](#Link to github repo)
-* [Link to the Website URL](#Link to the Website URL)
+* [Link to github repo](#Link-to-github-repo)
+* [Link to the website url](#Link-to-the-website-url)
 
 ## General info
 This project is a simple Teaching and Learning module application that provides a different number of modules. 
